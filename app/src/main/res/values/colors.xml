@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brown_200">#F2F68E33</color>
+    <color name="brown_500">#D5783F0D</color>
+    <color name="brown_700">#D53E2006</color>
+    <color name="red_200">#E6AF2900</color>
+    <color name="red_700">#E9832C03</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#FF757575</color>
+</resources>
